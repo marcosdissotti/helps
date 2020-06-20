@@ -17,7 +17,7 @@ public class Calculadora extends javax.swing.JFrame {
 
     }                                       
                                                              
-
+    //Subtração
     private void MinusActionPerformed(java.awt.event.ActionEvent evt) {    
 
         float firstNumber, secondNumber, result;
